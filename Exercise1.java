@@ -14,5 +14,6 @@ public class Exercise1 {
         String lname = input.next();
         System.out.println();
         System.out.println("Hello \n"+fname+" "+lname);
+    
     }
 }
