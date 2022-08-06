@@ -1,4 +1,5 @@
 //Author: Derin
+//Date: 08062022
 //Simple program that prints a greeting after recieving user's input
 
 import java.util.Scanner;

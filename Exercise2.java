@@ -1,4 +1,5 @@
 //Author: Derin
+//Date: 08062022
 //Printing the sum of two user-input integers
 
 import java.util.Scanner;
