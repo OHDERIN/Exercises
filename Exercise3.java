@@ -12,7 +12,6 @@ public class Exercise3 {
         int num2 = input.nextInt();
         int quot = (num1/num2);
         System.out.println("The division comes out to: "+quot);
-
     }
     
 }

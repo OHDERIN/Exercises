@@ -6,8 +6,7 @@ import java.util.Scanner;
 
 public class Exercise1 {
     
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Input your first name: ");
         String fname = input.next();
@@ -15,6 +14,5 @@ public class Exercise1 {
         String lname = input.next();
         System.out.println();
         System.out.println("Hello \n"+fname+" "+lname);
-    
     }
 }
