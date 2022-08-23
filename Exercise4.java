@@ -2,7 +2,7 @@
 //Date: 08092022
 //Prints multiple operations
 
-public class Main {
+public class Exercise4 {
 
     public static void main(String[] args) {
       int w = -5 + 8 * 6;
